@@ -1,24 +1,7 @@
-# README
+[Heroku Web App](https://hidden-journey-09900.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Best viewed in desktop view.
 
-Things you may want to cover:
+Part of the Odin Project Ruby on Rails development course.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Practice using Devise gem for account authentication.
