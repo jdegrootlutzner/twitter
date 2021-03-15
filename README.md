@@ -1,4 +1,4 @@
-[Heroku Web App](https://hidden-journey-09900.herokuapp.com/)
+[Heroku Web App](https://jdegrootlutzner-twitter-clone.herokuapp.com/)
 
 Best viewed in desktop view.
 
